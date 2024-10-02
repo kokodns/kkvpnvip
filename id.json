@@ -1,10 +1,14 @@
 {
     "allowedModels": [
-        
         {
             "name": "myo",
             "model": "123456",
             "date": "2024-11-11"
+        },
+        {
+            "name": "myo",
+            "model": "hsjs",
+            "date": "2024-10-24"
         }
     ]
 }
