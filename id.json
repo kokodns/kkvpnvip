@@ -1,3 +1,9 @@
 {
-    "allowedModels": []
+    "allowedModels": [
+        {
+            "name": "nzks",
+            "model": "zjsj",
+            "date": "2024-11-15"
+        }
+    ]
 }
