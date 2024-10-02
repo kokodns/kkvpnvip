@@ -1,5 +1,10 @@
 {
     "allowedModels": [
-        "90ef99b7f27150fa"
+        "90ef99b7f27150fa",
+        {
+            "name": "myo",
+            "model": "123456",
+            "date": "2024-11-11"
+        }
     ]
 }
